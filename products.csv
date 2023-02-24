@@ -1,0 +1,38 @@
+Type,Action,Action Type,Id,Name,Slug,MPN,SKU,Barcode,Brand,Category Path,Price,Sale Price,On Sale,Stock,Track Stock,Meta Title,Meta Description,Image URL,Attribute Value
+Product,Product,,1,Polo T-Shirt,polo-t-shirt,,,,,Clothing > Mens > Shirts,4,,,,,Polo T-Shirt,,,
+Product,Image,,,david-lundgren-1677077-unsplash.jpg,,,,,,,,,,,,,,https://knjads-static.development.myshopblocks.com/images/2019/7/original/d66acb0ba7fca413591393b5000b9509.jpg,
+Product,Image,,,brunel-johnson-368289-unsplash.jpg,,,,,,,,,,,,,,https://knjads-static.development.myshopblocks.com/images/2019/7/original/939c57f802b0973af511dc900e867dec.jpg,
+Product,Variant,Product,,,polo-t-shirt-blue-large,,,,,,6,,,,,,,,
+Product,Variant,Attribute,,Colour,,,,,,,,,,,,,,,Blue
+Product,Variant,Attribute,,Size,,,,,,,,,,,,,,,Large
+Product,Variant,Product,,,polo-t-shirt-blue-medium,,,,,,5,,,,,,,,
+Product,Variant,Attribute,,Colour,,,,,,,,,,,,,,,Blue
+Product,Variant,Attribute,,Size,,,,,,,,,,,,,,,Medium
+Product,Variant,Product,,,polo-t-shirt-blue-small,,,,,,4,,,,,,,,
+Product,Variant,Attribute,,Colour,,,,,,,,,,,,,,,Blue
+Product,Variant,Attribute,,Size,,,,,,,,,,,,,,,Small
+Product,Variant,Product,,,polo-t-shirt-white-large,,,,,,7.5,,,,,,,,
+Product,Variant,Attribute,,Colour,,,,,,,,,,,,,,,White
+Product,Variant,Attribute,,Size,,,,,,,,,,,,,,,Large
+Product,Variant,Product,,,polo-t-shirt-white-medium,,,,,,5.5,,,,,,,,
+Product,Variant,Attribute,,Colour,,,,,,,,,,,,,,,White
+Product,Variant,Attribute,,Size,,,,,,,,,,,,,,,Medium
+Product,Variant,Product,,,polo-t-shirt-white-small,,,,,,3.5,,,,,,,,
+Product,Variant,Attribute,,Colour,,,,,,,,,,,,,,,White
+Product,Variant,Attribute,,Size,,,,,,,,,,,,,,,Small
+Product,Variant,Product,,,polo-t-shirt-red-large,,,,,,6,,,,,,,,
+Product,Variant,Attribute,,Colour,,,,,,,,,,,,,,,Red
+Product,Variant,Attribute,,Size,,,,,,,,,,,,,,,Large
+Product,Variant,Product,,,polo-t-shirt-red-medium,,,,,,5,,,,,,,,
+Product,Variant,Attribute,,Colour,,,,,,,,,,,,,,,Red
+Product,Variant,Attribute,,Size,,,,,,,,,,,,,,,Medium
+Product,Variant,Product,,,polo-t-shirt-red-small,,,,,,4,,,,,,,,
+Product,Variant,Attribute,,Colour,,,,,,,,,,,,,,,Red
+Product,Variant,Attribute,,Size,,,,,,,,,,,,,,,Small
+Product,Product,,2,Denim Jeans,denim-jeans,,,,,Clothing > Mens > Jeans,30,,,,,Denim Jeans,,,
+Product,Variant,Product,,,denim-jeans-denim-large,,,,,,30,,,,,,,,
+Product,Variant,Attribute,,Colour,,,,,,,,,,,,,,,Denim
+Product,Variant,Attribute,,Size,,,,,,,,,,,,,,,Large
+Product,Variant,Product,,,denim-jeans-denim-medium,,,,,,28,,,,,,,,
+Product,Variant,Attribute,,Colour,,,,,,,,,,,,,,,Denim
+Product,Variant,Attribute,,Size,,,,,,,,,,,,,,,Medium

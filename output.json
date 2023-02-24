@@ -1,0 +1,190 @@
+[
+	{
+		"id": "1",
+		"mpn": "",
+		"sku": "",
+		"name": "Polo T-Shirt",
+		"slug": "polo-t-shirt",
+		"price": "4",
+		"stock": "",
+		"active": true,
+		"images": [
+			{
+				"id": "",
+				"alt": "david-lundgren-1677077-unsplash.jpg",
+				"source": "https://knjads-static.development.myshopblocks.com/images/2019/7/original/d66acb0ba7fca413591393b5000b9509.jpg"
+			},
+			{
+				"id": "",
+				"alt": "brunel-johnson-368289-unsplash.jpg",
+				"source": "https://knjads-static.development.myshopblocks.com/images/2019/7/original/939c57f802b0973af511dc900e867dec.jpg"
+			}
+		],
+		"barcode": "",
+		"on_sale": false,
+		"children": [
+			{
+				"sku": "",
+				"slug": "polo-t-shirt-blue-large",
+				"price": "6",
+				"stock": "",
+				"on_sale": false,
+				"attributes": {
+					"Size": "Large",
+					"Colour": "Blue"
+				},
+				"sale_price": "",
+				"track_stock": false
+			},
+			{
+				"sku": "",
+				"slug": "polo-t-shirt-blue-medium",
+				"price": "5",
+				"stock": "",
+				"on_sale": false,
+				"attributes": {
+					"Size": "Medium",
+					"Colour": "Blue"
+				},
+				"sale_price": "",
+				"track_stock": false
+			},
+			{
+				"sku": "",
+				"slug": "polo-t-shirt-blue-small",
+				"price": "4",
+				"stock": "",
+				"on_sale": false,
+				"attributes": {
+					"Size": "Small",
+					"Colour": "Blue"
+				},
+				"sale_price": "",
+				"track_stock": false
+			},
+			{
+				"sku": "",
+				"slug": "polo-t-shirt-white-large",
+				"price": "7.5",
+				"stock": "",
+				"on_sale": false,
+				"attributes": {
+					"Size": "Large",
+					"Colour": "White"
+				},
+				"sale_price": "",
+				"track_stock": false
+			},
+			{
+				"sku": "",
+				"slug": "polo-t-shirt-white-medium",
+				"price": "5.5",
+				"stock": "",
+				"on_sale": false,
+				"attributes": {
+					"Size": "Medium",
+					"Colour": "White"
+				},
+				"sale_price": "",
+				"track_stock": false
+			},
+			{
+				"sku": "",
+				"slug": "polo-t-shirt-white-small",
+				"price": "3.5",
+				"stock": "",
+				"on_sale": false,
+				"attributes": {
+					"Size": "Small",
+					"Colour": "White"
+				},
+				"sale_price": "",
+				"track_stock": false
+			},
+			{
+				"sku": "",
+				"slug": "polo-t-shirt-red-large",
+				"price": "6",
+				"stock": "",
+				"on_sale": false,
+				"attributes": {
+					"Size": "Large",
+					"Colour": "Red"
+				},
+				"sale_price": "",
+				"track_stock": false
+			},
+			{
+				"sku": "",
+				"slug": "polo-t-shirt-red-medium",
+				"price": "5",
+				"stock": "",
+				"on_sale": false,
+				"attributes": {
+					"Size": "Medium",
+					"Colour": "Red"
+				},
+				"sale_price": "",
+				"track_stock": false
+			},
+			{
+				"sku": "",
+				"slug": "polo-t-shirt-red-small",
+				"price": "4",
+				"stock": "",
+				"on_sale": false,
+				"attributes": {
+					"Size": "Small",
+					"Colour": "Red"
+				},
+				"sale_price": "",
+				"track_stock": false
+			}
+		],
+		"meta_title": "Polo T-Shirt",
+		"product_category_id": "Clothing > Mens > Shirts"
+	},
+	{
+		"id": "2",
+		"mpn": "",
+		"sku": "",
+		"name": "Denim Jeans",
+		"slug": "denim-jeans",
+		"price": "30",
+		"stock": "",
+		"active": true,
+		"images": [],
+		"barcode": "",
+		"on_sale": false,
+		"children": [
+			{
+				"sku": "",
+				"slug": "denim-jeans-denim-large",
+				"price": "30",
+				"stock": "",
+				"on_sale": false,
+				"attributes": {
+					"Size": "Large",
+					"Colour": "Denim"
+				},
+				"sale_price": "",
+				"track_stock": false
+			},
+			{
+				"sku": "",
+				"slug": "denim-jeans-denim-medium",
+				"price": "28",
+				"stock": "",
+				"on_sale": false,
+				"attributes": {
+					"Size": "Medium",
+					"Colour": "Denim"
+				},
+				"sale_price": "",
+				"track_stock": false
+			}
+		],
+		"meta_title": "Denim Jeans",
+		"product_category_id": "Clothing > Mens > Jeans"
+	}
+]
